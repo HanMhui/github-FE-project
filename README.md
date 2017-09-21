@@ -1,5 +1,7 @@
 ### GitHub 值得收藏的前端项目
 
+如果你觉得本文对你有帮助，可以点击下方赞助商广告，give me a cup of coffee.thx 👇👇👇
+
 <a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/vot3Uhcjmh3Jtdd4TEAQqLBv/HanMhui/github-FE-project'>
   <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/vot3Uhcjmh3Jtdd4TEAQqLBv/HanMhui/github-FE-project.svg' />
 </a>
